@@ -44,4 +44,4 @@ ng serve
 
 ### Project Images
 
-| ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png) | ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png) | ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png) |
+| ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png | width=100) | ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png | width=100) | ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png | width=100) |
