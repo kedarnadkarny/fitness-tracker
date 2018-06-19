@@ -44,4 +44,18 @@ ng serve
 
 ### Project Images
 
-| ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png | width=100) | ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png | width=100) | ![burger1](https://github.com/kedarnadkarny/burger-builder/blob/master/src/assets/images/burger1.png | width=100) |
+![fitness1](https://github.com/kedarnadkarny/fitness-tracker/tree/master/src/assets/images/fitness1.png)
+
+![fitness2](https://github.com/kedarnadkarny/fitness-tracker/tree/master/src/assets/images/fitness2.png)
+
+![fitness3](https://github.com/kedarnadkarny/fitness-tracker/tree/master/src/assets/images/fitness3.png)
+
+![fitness4](https://github.com/kedarnadkarny/fitness-tracker/tree/master/src/assets/images/fitness4.png)
+
+![fitness5](https://github.com/kedarnadkarny/fitness-tracker/tree/master/src/assets/images/fitness5.png)
+
+![fitness6](https://github.com/kedarnadkarny/fitness-tracker/tree/master/src/assets/images/fitness6.png)
+
+![fitness7](https://github.com/kedarnadkarny/fitness-tracker/tree/master/src/assets/images/fitness7.png)
+
+![fitness8](https://github.com/kedarnadkarny/fitness-tracker/tree/master/src/assets/images/fitness8.png)
